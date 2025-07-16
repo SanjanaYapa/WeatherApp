@@ -1,2 +1,20 @@
-# WeatherApp
-A simple weather app built with HTML, CSS, and JavaScript. Enter any city to view current weather and hourly forecast. Features a clean UI, responsive design, and real-time data via weather API. Open index.html with Live Server to run the app.
+🌦️ Weather App
+This is a simple and responsive weather application built using HTML, CSS, and JavaScript. It allows users to search for the current weather of any city and view a basic hourly forecast.
+
+🔍 Features
+Search weather by city name
+
+Shows temperature, weather condition, and icon
+
+Responsive and user-friendly UI
+
+Displays hourly forecast in a scrollable format
+
+🛠 Technologies Used
+HTML5
+
+CSS3 (Glassmorphism design)
+
+Vanilla JavaScript
+
+Weather API ( OpenWeatherMap)
